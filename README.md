@@ -1,5 +1,6 @@
-# Hi 👋, I'm Taleh
-
+<p align="center">
+  # Hi 👋, I'm Taleh
+</p>
 --------------
 
 ### A Passionate Software Engineer
