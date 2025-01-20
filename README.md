@@ -1,4 +1,8 @@
-# 👨‍💻 A Passionate Software Engineer
+# Hi 👋, I'm Taleh
+
+--------------
+
+# A Passionate Software Engineer
 
 Hi there! 👋 I'm a software engineer dedicated to building innovative solutions through technology. 
 
