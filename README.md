@@ -1,7 +1,6 @@
 <p align="center">
-  # Hi 👋, I'm Taleh
+  <strong><span style="font-size: 2em;">Hi 👋, I'm Taleh</span></strong>
 </p>
---------------
 
 ### A Passionate Software Engineer
 
