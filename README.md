@@ -2,7 +2,7 @@
 <h3 align="center">Let's build something amazing together!</h3>
 
 - 🔭 I’m currently working on **private projects**.  
-- 🌱 I’m currently learning **Artificial Intelligence** to enhance my expertise.  
+- 🌱 I’m willing to learn **Artificial Intelligence** to enhance my expertise.  
 - 🤝 I’m looking to collaborate on **enterprise C# projects**.
 
 
