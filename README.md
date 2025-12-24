@@ -2,8 +2,8 @@
 <h3 align="center">Let's build something amazing together!</h3>
 
 - 🔭 I’m currently working on **private projects**.  
-- 🌱 I’m willing to learn **Artificial Intelligence** to enhance my expertise.  
-- 🤝 I’m looking to collaborate on **enterprise C# projects**.
+- 🌱 I’m learning **Artificial Intelligence** to enhance my expertise.  
+- 🤝 I’m looking to collaborate on **enterprise Python, C++/C# projects**.
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=talehmalikov)
