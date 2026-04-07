@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Taleh</h1>
 <h3 align="center">Let's build something amazing together!</h3>
 
-- 🔭 I’m currently working on **private projects**.  
-- 🌱 I’m learning **Artificial Intelligence** to enhance my expertise.  
-- 🤝 I’m looking to collaborate on **enterprise Python, C++/C# projects**.
-
+- 🔭 I’m currently working on **HCI** lab in Uchicago.  
+- 🌱 I’m actively learning **Cloud & Computatitional Data Analysis + HCI foundations**.  
+- 🤝 I’m open to collaborate on or discuss **ANYTHING**, from **deep philosophical discussions** to today's most popular topics like **AI**, especially **Mathematics behind AI**.
+  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=talehmalikov)
 
@@ -12,7 +12,7 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.icons8.com/?size=40&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/talehmalikov/) [![Facebook](https://img.icons8.com/?size=40&id=uLWV5A9vXIPu&format=png&color=000000)](https://www.facebook.com/share/1BRbWAmpfd/) [![Instagram](https://img.icons8.com/?size=40&id=Xy10Jcu1L2Su&format=png&color=000000)](https://www.instagram.com/taleh.malikkov) [![Medium](https://img.icons8.com/?size=40&id=sqYv6jHqkMo4&format=png&color=000000)](https://medium.com/@talehmalikov.dev) [![LeetCode](https://img.icons8.com/?size=40&id=wDGo581Ea5Nf&format=png&color=000000)](https://leetcode.com/u/tmalikov/) [![ORCID](https://img.icons8.com/?size=40&id=ve6L0KkSotok&format=png&color=000000)](https://orcid.org/0009-0008-4156-6285)  
+[![LinkedIn](https://img.icons8.com/?size=40&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/talehmalikov/) [![Facebook](https://img.icons8.com/?size=40&id=uLWV5A9vXIPu&format=png&color=000000)](https://www.facebook.com/share/1BRbWAmpfd/) [![Instagram](https://img.icons8.com/?size=40&id=Xy10Jcu1L2Su&format=png&color=000000)](https://www.instagram.com/taleh.malikkov) [![LeetCode](https://img.icons8.com/?size=40&id=wDGo581Ea5Nf&format=png&color=000000)](https://leetcode.com/u/talehmalikov/)
 
 ---
 
