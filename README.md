@@ -19,6 +19,9 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="40" height="40"/>
+  </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000" alt="C#" width="40" height="40"/>
   </a>
